@@ -14,11 +14,13 @@ Linear Programming (LP) is a method to achieve the best outcome in a mathematica
 
 Given a vector of variables \( \mathbf{x} \), the standard form of an LP model is:
 
-- **Objective Function**: Minimize or maximize \( c^T \mathbf{x} \)
+- **Objective Function**: Minimize or maximize ![Objective Function](https://latex.codecogs.com/png.latex?\min%20\sum_{i=1}^{24}%20y_i%20x_i)
+
 - **Constraints**:
   - Linear equality constraints: \( A\mathbf{x} = b \)
   - Linear inequality constraints: \( A\mathbf{x} \leq b \)
   - Non-negativity constraints: \( \mathbf{x} \geq 0 \)
+
 
 Where \( c, \mathbf{x} \), and \( b \) are vectors and \( A \) is a matrix of coefficients.
 
