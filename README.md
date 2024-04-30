@@ -1,4 +1,4 @@
-# Project README: Diet Optimization for Canadian University Students
+# Diet Optimization for Canadian University Students
 
 ## Overview
 
